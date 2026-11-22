@@ -1,0 +1,3 @@
+openai-whisper
+ffmpeg-python
+c:\D-DRIVE\Work\nexston\video\chat app\Module_02_Frontend_Setup_UI.mp4
